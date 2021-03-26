@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on improving my skills as a Front End Developer.
 - 📫 Reach me at: Somyarawat366@gmail.com 
+![Github stats](https://github-readme-stats.vercel.app/api?Somya-iitkgp)
+
 <!--
 **Somya-iitkgp/Somya-iitkgp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
